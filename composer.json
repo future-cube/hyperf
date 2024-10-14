@@ -1,0 +1,10 @@
+{
+    "name": "fcadmin/hyperf",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fcadmin\\Hyperf\\": "src/"
+        }
+    },
+    "require": {}
+}
